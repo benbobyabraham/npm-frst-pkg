@@ -1,7 +1,7 @@
 {
   "name": "npm-frst-pkg",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "> This package was made for testing out how packages were created and deployed to the npm package registry. It will be deleted at a later time.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,15 @@
   "keywords": [
     "npm,first,pkg"
   ],
-  "author": "benbobyabraham<benbobyabraham@gmail.com>",
+  "author": "benbobyabraham <benbobyabraham@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "npm-frst-pkg": "^1.0.0"
-  }
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benbobyabraham/npm-frst-pkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benbobyabraham/npm-frst-pkg/issues"
+  },
+  "homepage": "https://github.com/benbobyabraham/npm-frst-pkg#readme"
 }
