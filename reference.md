@@ -37,3 +37,6 @@ If you need to make changes,
 - Make the changes.
 - Open the package.json and change the version number.
 - Login to the NPM registry and run npm publish again.
+
+## Standard build process for updates and contributing to open source projects
+ Follow this [link](https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/).
