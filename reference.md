@@ -40,3 +40,8 @@ If you need to make changes,
 
 ## Standard build process for updates and contributing to open source projects
  Follow this [link](https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/).
+ 
+# References
+1. [How to Publish an Updated Version of an npm Package](https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/).
+2. [Publish React components as an npm package](https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f).
+3. [Use Github branch as dependency in package.json](https://medium.com/@jonchurch/use-github-branch-as-dependency-in-package-json-5eb609c81f1a).
